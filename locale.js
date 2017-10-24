@@ -18,5 +18,15 @@ var locales = {
         "searchbox": "Buscar en la web",
         "settings": "Preferencias",
         "darkmode": "Cambiar a modo nocturno"
+    },
+    "hu": {
+        "discover": "Felfedezés",
+        "community": "Közösség",
+        "shop": "Butik",
+        "chat": "Csevegés",
+        "donate": "Adományozás",
+        "searchbox": "Keresés a weben",
+        "settings": "Testreszabás",
+        "darkmode": "Sötét mód kapcsolása"
     }
 };
